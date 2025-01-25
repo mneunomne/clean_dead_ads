@@ -1,0 +1,25 @@
+{
+  "name": "clean_dead_ads",
+  "version": "1.0.0",
+  "description": "<!-- [![Build Status](https://travis-ci.org/dhowe/AdNauseam.svg)](https://travis-ci.org/dhowe/AdNauseam) --> ![version](https://badgen.net/amo/v/adnauseam) ![stars](https://badgen.net/amo/stars/adnauseam) <a href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\"><img src=\"https://img.shields.io/badge/license-GPL-orange.svg\" alt=\"gpl license\"></a> [![open-collective](https://opencollective.com/adnauseam/tiers/badge.svg)](https://opencollective.com/adnauseam#category-CONTRIBUTE)",
+  "main": "script.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mneunomne/AdNauseam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mneunomne/AdNauseam/issues"
+  },
+  "homepage": "https://github.com/mneunomne/AdNauseam#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
